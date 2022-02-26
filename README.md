@@ -1,6 +1,6 @@
 # My Profile
 
-Hello there I am Darcy
+darcy
 
 # Things that I made
 
@@ -12,3 +12,5 @@ Hello there I am Darcy
 - [Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
 
 Everything else is just testing
+
+Support 𝑩𝒐𝒍𝒔𝒂!
