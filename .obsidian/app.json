@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-AU"
+  ],
+  "useTab": false,
+  "tabSize": 2
+}
