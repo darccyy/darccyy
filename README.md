@@ -9,37 +9,13 @@
 
 <div align="center">
 
-![Smashing Keyboard GIF](https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif?cid=ecf05e47zkeipmvp7qyq05rh1ctacrme7zr1by10fdokdnnt&rid=giphy.gif&ct=s)
+  ![Smashing Keyboard GIF](https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif?cid=ecf05e47zkeipmvp7qyq05rh1ctacrme7zr1by10fdokdnnt&rid=giphy.gif&ct=s)
 
 </div>
 
 ---
 
-<div class="logos">
-
-![Javascript](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg)
-![Typescript](https://cdn.worldvectorlogo.com/logos/typescript.svg)
-![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)
-![Jquery](https://cdn.worldvectorlogo.com/logos/jquery-4.svg)
-![HTML](https://cdn.worldvectorlogo.com/logos/html-1.svg)
-![CSS](https://cdn.worldvectorlogo.com/logos/css-3.svg)
-![SASS](https://cdn.worldvectorlogo.com/logos/sass-1.svg)
-![Electron](https://cdn.worldvectorlogo.com/logos/electron-1.svg)
-![NodeJS](https://cdn.worldvectorlogo.com/logos/nodejs-1.svg)
-![Ruby](https://cdn.worldvectorlogo.com/logos/ruby.svg)
-![VSCode](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg)
-![MongoDB](https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg)
-![Git](https://cdn.worldvectorlogo.com/logos/git-icon.svg)
-![Heroku](https://cdn.worldvectorlogo.com/logos/heroku-4.svg)
-![Python](https://cdn.worldvectorlogo.com/logos/python-5.svg)
-
-</div>
-<style>
-  .logos img {
-    width: 50px;
-    height: 50px;
-  }
-</style>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width="50" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="Electron" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
 
 # My GitHub Stats
 
