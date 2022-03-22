@@ -1,6 +1,6 @@
 # Hello! 🌊 💻
 
-![GitHub followers](https://img.shields.io/github/followers/darccyy?style=for-the-badge) ![GitHub user stars](https://img.shields.io/github/stars/darccyy?style=for-the-badge) ![Profile views](https://komarev.com/ghpvc/?username=darccyy&style=for-the-badge&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/darccyy?style=flat-square) ![GitHub user stars](https://img.shields.io/github/stars/darccyy?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=darccyy&style=flat-square&color=blue)
 
 # About Me:
 
