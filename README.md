@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darccyy&layout=compact&theme=radical) ![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=darccyy&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darccyy&layout=compact&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darccyy&theme=radical)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ### Small projects
 
-- [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News
+- [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News [[repo]](https://github.com/bruhnews/bruhnews.github.io)
 - [<img alt="🌐" src="https://github.com/darccyy/targetip/raw/main/icon.png" width=20 height=20 /> TargetIP](https://github.com/darccyy/targetip) - Fake hacking program to fool your friends
 - [Kahoot Name](https://github.com/darccyy/kahoot-name) - Kahoot renaming API for bypassing generated name
 - [YouTube Caption Fetcher](https://github.com/darccyy/youtube-caption) - Fetch YouTube Captions in the terminal
