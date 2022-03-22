@@ -5,7 +5,7 @@
 # About Me:
 
 - Darcy Burke
-- I am a full-stack developer 🤓
+- I am technically a full-stack developer 🤓
 
 <div align="center">
 
