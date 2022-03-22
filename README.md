@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![Smashing Keyboard GIF](https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif?cid=ecf05e47zkeipmvp7qyq05rh1ctacrme7zr1by10fdokdnnt&rid=giphy.gif&ct=s) <img alt="Profile Picture" src="https://avatars.githubusercontent.com/u/44690813?v=4" style="border-radius: 100%" />
+![Smashing Keyboard GIF](https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif?cid=ecf05e47zkeipmvp7qyq05rh1ctacrme7zr1by10fdokdnnt&rid=giphy.gif&ct=s)
 
 </div>
 
