@@ -48,7 +48,7 @@
 
 ## Work in Progress
 
-- [<img alt="🌐" src="https://fortissimojs.github.io/image/icon-alt.png" width=20 height=20 /> FortissimoJS](https://github.com/fortissimojs/fortissimojs.github.io) - JS library for helpful functions
+- [<img alt="🌐" src="https://fortissimojs.github.io/image/icon/white.png" width=20 height=20 /> FortissimoJS](https://github.com/fortissimojs/fortissimojs.github.io) - JS library for helpful functions
 
 ### Projects I aim to achieve
 
