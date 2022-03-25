@@ -35,18 +35,15 @@
 - [<img alt="🌐" src="https://raw.githubusercontent.com/darccyy/mousr/master/image/icon-display.png" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
 - [<img alt="🌐" src="https://trustworthytimes.herokuapp.com/image/icon.png" width=20 height=20 /> The Trustworthy Times](https://trustworthytimes.herokuapp.com) - The most Trustworthy news (Satire) [[repo]](https://github.com/darccyy/trustworthytimes)
 - [<img alt="🌐" src="" width=20 height=20 /> React Express Template](https://github.com/darccyy/react-express-template) - Easy template for creating fullstack webapps
-- [<img alt="🌐" src="https://epicwebsite.bruh.international/source/image/favicon.png" width=20 height=20 /> EpicWebsite](https://epicwebsite.bruh.international) - Compilation website of small tools and games [[repo]](https://github.com/epicwebsite/epicwebsite.github.io)
+- [<img alt="🌐" src="https://fortissimojs.github.io/image/icon-alt.png" width=20 height=20 /> FortissimoJS](https://github.com/fortissimojs/fortissimojs.github.io) - JS library for helpful functions
 
 ### Small projects
 
+- [<img alt="🌐" src="https://epicwebsite.bruh.international/source/image/favicon.png" width=20 height=20 /> EpicWebsite](https://epicwebsite.bruh.international) - Compilation website of small tools and games [[repo]](https://github.com/epicwebsite/epicwebsite.github.io)
 - [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News [[repo]](https://github.com/bruhnews/bruhnews.github.io)
 - [<img alt="🌐" src="https://github.com/darccyy/targetip/raw/main/icon.png" width=20 height=20 /> TargetIP](https://github.com/darccyy/targetip) - Fake hacking program to fool your friends
 - [Kahoot Name](https://github.com/darccyy/kahoot-name) - Kahoot renaming API for bypassing generated name
 - [YouTube Caption Fetcher](https://github.com/darccyy/youtube-caption) - Fetch YouTube Captions in the terminal
-
-## Work in Progress
-
-- [<img alt="🌐" src="https://fortissimojs.github.io/image/icon-alt.png" width=20 height=20 /> FortissimoJS](https://github.com/fortissimojs/fortissimojs.github.io) - JS library for helpful functions
 
 ### Projects I aim to achieve
 
