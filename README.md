@@ -41,8 +41,9 @@
 
 ### Small projects
 
-- [<img alt="🌐" src="https://epicwebsite.bruh.international/source/image/favicon.png" width=20 height=20 /> EpicWebsite](https://epicwebsite.bruh.international) - Compilation website of small tools and games [[repo]](https://github.com/epicwebsite/epicwebsite.github.io)
+- [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
 - [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News [[repo]](https://github.com/bruhnews/bruhnews.github.io)
+- [<img alt="🌐" src="https://epicwebsite.bruh.international/source/image/favicon.png" width=20 height=20 /> EpicWebsite](https://epicwebsite.bruh.international) - Compilation website of small tools and games [[repo]](https://github.com/epicwebsite/epicwebsite.github.io)
 - [<img alt="🌐" src="https://github.com/darccyy/targetip/raw/main/icon.png" width=20 height=20 /> TargetIP](https://github.com/darccyy/targetip) - Fake hacking program to fool your friends
 - [Kahoot Name](https://github.com/darccyy/kahoot-name) - Kahoot renaming API for bypassing generated name
 - [YouTube Caption Fetcher](https://github.com/darccyy/youtube-caption) - Fetch YouTube Captions in the terminal
