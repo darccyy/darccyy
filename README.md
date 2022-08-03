@@ -34,7 +34,7 @@
 ## Complete / Functional
 
 - [<img alt="🌐" src="https://darccyy.github.io/cttab/image/icon/128.png" width=20 height=20 /> CTTab](https://darccyy.github.io/cttab) - The easiest Custom New Tab page for the browser! [[repo]](https://github.com/darccyy/cttab)
-- [<img alt="🌐" src="https://raw.githubusercontent.com/darccyy/mousr/master/image/icon-display.png" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
+- [<img alt="🌐" src="https://raw.githubusercontent.com/darccyy/mousr/master/src/icon-active.png" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
 - [<img alt="🌐" src="https://trustworthytimes.herokuapp.com/image/icon.png" width=20 height=20 /> The Trustworthy Times](https://trustworthytimes.herokuapp.com) - The most Trustworthy news (Satire) [[repo]](https://github.com/darccyy/trustworthytimes)
 - [<img alt="🌐" src="https://fortissimojs.github.io/image/icon/white.png" width=20 height=20 /> FortissimoJS](https://github.com/fortissimojs/fortissimojs.github.io) - JS library for helpful functions
 - [<img alt="🌐" src="" width=20 height=20 /> React Express Template](https://github.com/darccyy/react-express-template) - Easy template for creating fullstack webapps
