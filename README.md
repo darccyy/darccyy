@@ -18,7 +18,22 @@
 <!-- Languages / Tools -->
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width=50 width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="Electron" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" width=50 height=50/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width=50 width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="Electron" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width=50 height=50/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width=50 height=50/>
 </div>
 
 # My GitHub Stats
@@ -41,6 +56,7 @@
 
 ### Small projects
 
+- [Has the Queen Died?](https://hasthequeendied.com) - Check if the Queen has died (yes), using the Wikipedia API
 - [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
 - [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News [[repo]](https://github.com/bruhnews/bruhnews.github.io)
 - [<img alt="🌐" src="https://github.com/darccyy/targetip/raw/main/icon.png" width=20 height=20 /> TargetIP](https://github.com/darccyy/targetip) - Fake hacking program to fool your friends
