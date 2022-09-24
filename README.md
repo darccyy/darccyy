@@ -28,7 +28,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width=50 height=50/> 
   <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="Electron" width=50 height=50/> 
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width=50 height=50/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" width=50 height=50/> 
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width=50 height=50/> 
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width=50 height=50/> 
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width=50 height=50/> 
