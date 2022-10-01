@@ -7,6 +7,7 @@
 - Darcy Burke
 - I am technically a full-stack developer 🤓
 - 17 y/o 💀
+- Can help with Esperanto translations
 
 <div align="center">
 
