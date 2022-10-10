@@ -56,7 +56,7 @@
 
 ### Small projects
 
-- [Has the Queen Died?](https://hasthequeendied.com) - Check if the Queen has died (yes), using the Wikipedia API
+- [Has the King Died?](https://hasthekingdied.com) - Check if the King has died, using the Wikipedia API (Previously 'Has the Queen Died')
 - [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
 - [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News [[repo]](https://github.com/bruhnews/bruhnews.github.io)
 - [<img alt="🌐" src="https://github.com/darccyy/targetip/raw/main/icon.png" width=20 height=20 /> TargetIP](https://github.com/darccyy/targetip) - Fake hacking program to fool your friends
