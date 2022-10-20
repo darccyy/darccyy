@@ -47,7 +47,7 @@
 
 # Projects
 
-- [Has the King Died?](https://hasthekingdied.com) - Check if the King has died, using the Wikipedia API (Previously 'Has the Queen Died')
+- [<img alt="🌐" src="https://hasthekingdied.com/favicon.png" width=20 height=20 /> Has the King Died?](https://hasthekingdied.com) - Check if the King has died, using the Wikipedia API (Previously 'Has the Queen Died')
 - [<img alt="🌐" src="https://darccyy.github.io/cttab/image/icon/128.png" width=20 height=20 /> CTTab](https://darccyy.github.io/cttab) - The easiest Custom New Tab page for the browser! [[repo]](https://github.com/darccyy/cttab)
 - [<img alt="🌐" src="https://raw.githubusercontent.com/darccyy/mousr/master/src/icon-active.png" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
 - [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
