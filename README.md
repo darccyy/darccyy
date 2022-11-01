@@ -4,10 +4,10 @@
 
 # About Me:
 
-- Darcy Burke
+- darcy burke
 - I am technically a full-stack developer 🤓
 - 17 y/o 💀
-- RUST GANG
+- RUST GANG 🦀
 
 <div align="center">
 
@@ -20,9 +20,9 @@
 <!-- Languages / Tools -->
 
 <div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width=50 height=50/>
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width=50 height=50/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width=50 height=50/> 
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width=50 width=50 height=50/>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width=50 height=50/>
@@ -76,7 +76,7 @@ These are no longer maintained
 
 Support 𝑩𝒐𝒍𝒔𝒂!
 
-<div align="center">
+<div align="center" title="Get it? Closing html tag??">
 
 ![Closing empty HTML tag](https://media3.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e47b8pgakpqq75vo3aelwdi7ik9hfpqckeildfrpczh&rid=giphy.gif&ct=s)
 
