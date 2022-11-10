@@ -47,23 +47,12 @@
 
 # Projects
 
-- [<img alt="🌐" src="https://hasthekingdied.com/favicon.png" width=20 height=20 /> Has the King Died?](https://hasthekingdied.com) - Check if the King has died, using the Wikipedia API (Previously 'Has the Queen Died')
+- [<img alt="🌐" src="https://hasthekingdied.com/favicon.png" width=20 height=20 /> Has the King Died?](https://hasthekingdied.com) - Check if the King has died, using the Wikipedia API (Previously 'Has the Queen Died') [[repo]](https://github.com/hasthekingdied/hasthekingdied.github.io)
 - [<img alt="🌐" src="https://darccyy.github.io/cttab/image/icon/128.png" width=20 height=20 /> CTTab](https://darccyy.github.io/cttab) - The easiest Custom New Tab page for the browser! [[repo]](https://github.com/darccyy/cttab)
-- [<img alt="🌐" src="https://github.com/darccyy/unreact/raw/main/icon.png" width=20 height=20 /> Unreact](https://github.com/darccyy/unreact) - Unreact - An SSG framework for Rust
+- [<img alt="🌐" src="https://github.com/darccyy/unreact/raw/main/icon.png" width=20 height=20 /> Unreact](https://github.com/darccyy/unreact) - An SSG framework for Rust
 - [<img alt="🌐" src="https://github.com/darccyy/mousr/raw/master/src/icon-active.ico" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
 - [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
 - [<img alt="🌐" src="https://trustworthytimes.com/public/image/icon.png" width=20 height=20 /> The Trustworthy Times](https://trustworthytimes.com) - The most Trustworthy news (Satire) [[repo]](https://github.com/trustworthytimes/trustworthytimes.github.io)
-
-### Small projects
-
-These are no longer maintained
-
-- [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News [[repo]](https://github.com/bruhnews/bruhnews.github.io)
-- [Kahoot Name](https://github.com/darccyy/kahoot-name) - Kahoot renaming API for bypassing generated name
-- [<img alt="🌐" src="https://github.com/darccyy/targetip/raw/main/icon.png" width=20 height=20 /> TargetIP](https://github.com/darccyy/targetip) - Fake hacking program to fool your friends
-- [<img alt="🌐" src="" width=20 height=20 /> React Express Template](https://github.com/darccyy/react-express-template) - Easy template for creating fullstack webapps
-- [<img alt="🌐" src="https://darccyy.github.io/calculator/favicon.png" width=20 height=20 /> Calculator](https://darccyy.github.io/calculator) - Simple calculator in the browser
-- [YouTube Caption Fetcher](https://github.com/darccyy/youtube-caption) - Fetch YouTube Captions in the terminal
 
 ### Projects I aim to achieve
 
