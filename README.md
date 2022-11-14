@@ -51,7 +51,7 @@
 - [<img alt="🌐" src="https://darccyy.github.io/cttab/image/icon/128.png" width=20 height=20 /> CTTab](https://darccyy.github.io/cttab) - The easiest Custom New Tab page for the browser! [[repo]](https://github.com/darccyy/cttab)
 - [<img alt="🌐" src="https://github.com/darccyy/unreact/raw/main/icon.png" width=20 height=20 /> Unreact](https://github.com/darccyy/unreact) - An SSG framework for Rust
 - [<img alt="🌐" src="https://github.com/darccyy/mousr/raw/master/src/icon-active.ico" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
-- [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
+<!-- - [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color) -->
 - [<img alt="🌐" src="https://trustworthytimes.com/public/image/icon.png" width=20 height=20 /> The Trustworthy Times](https://trustworthytimes.com) - The most Trustworthy news (Satire) [[repo]](https://github.com/trustworthytimes/trustworthytimes.github.io)
 
 ### Projects I aim to achieve
