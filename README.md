@@ -63,6 +63,7 @@
 
 - [nslebruh](https://github.com/nslebruh)
 - [Addy32](https://github.com/Addy32)
+- [PhishPhingers](https://github.com/phishphingers)
 
 Support 𝑩𝒐𝒍𝒔𝒂!
 
