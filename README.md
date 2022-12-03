@@ -48,9 +48,9 @@
 # Projects
 
 - [<img alt="🌐" src="https://darccyy.github.io/cttab/image/icon/128.png" width=20 height=20 /> CTTab](https://darccyy.github.io/cttab) - The easiest Custom New Tab page for the browser! [[repo]](https://github.com/darccyy/cttab)
-- [<img alt="🌐" src="https://raw.githubusercontent.com/darccyy/mousr/master/src/icon-active.png" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
-- [<img alt="🌐" src="???" width=20 height=20 /> McImg](https://github.com/darccyy/mcimg) - Convert any image into Minecraft blocks
+- [<img alt="🌐" src="https://raw.githubusercontent.com/darccyy/mousr/master/src/icon-active.ico" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
 - [<img alt="🌐" src="https://github.com/darccyy/unreact/raw/main/icon.png" width=20 height=20 /> Unreact](https://github.com/darccyy/unreact) - Unreact - An SSG framework for Rust
+- [<img alt="🌐" src="???" width=20 height=20 /> McImg](https://github.com/darccyy/mcimg) - Convert any image into Minecraft blocks
 - [<img alt="🌐" src="https://hasthekingdied.com/favicon.png" width=20 height=20 /> Has the King Died?](https://hasthekingdied.com) - Check if the King has died, using the Wikipedia API (Previously 'Has the Queen Died')
 - [<img alt="🌐" src="https://trustworthytimes.com/public/image/icon.png" width=20 height=20 /> The Trustworthy Times](https://trustworthytimes.com) - The most Trustworthy news (Satire) [[repo]](https://github.com/trustworthytimes/trustworthytimes.github.io)
 
