@@ -66,15 +66,12 @@ These are no longer maintained (and some are cringe)
 - [YouTube Caption Fetcher](https://github.com/darccyy/youtube-caption) - Fetch YouTube Captions in the terminal
 - [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
 
-### Projects I aim to achieve
-
-- Simple platformer game with Rust
-- Simple chat app with authentication
 
 # Friends
 
 - [nslebruh](https://github.com/nslebruh)
 - [Addy32](https://github.com/Addy32)
+- [PhishPhingers](https://github.com/phishphingers)
 
 Support 𝑩𝒐𝒍𝒔𝒂!
 
