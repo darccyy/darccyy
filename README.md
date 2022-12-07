@@ -53,6 +53,7 @@
 - [<img alt="🌐" src="???" width=20 height=20 /> McImg](https://github.com/darccyy/mcimg) - Convert any image into Minecraft blocks
 - [<img alt="🌐" src="https://hasthekingdied.com/favicon.png" width=20 height=20 /> Has the King Died?](https://hasthekingdied.com) - Check if the King has died, using the Wikipedia API (Previously 'Has the Queen Died')
 - [<img alt="🌐" src="https://trustworthytimes.com/public/image/icon.png" width=20 height=20 /> The Trustworthy Times](https://trustworthytimes.com) - The most Trustworthy news (Satire) [[repo]](https://github.com/trustworthytimes/trustworthytimes.github.io)
+- [<img alt="🌐" src="???" width=20 height=20 /> Phoner](https://github.com/darccyy/phoner) - CLI tool to validate phonotactic patterns
 
 ### Small projects
 
@@ -65,7 +66,6 @@ These are no longer maintained (and some are cringe)
 - [<img alt="🌐" src="https://darccyy.github.io/calculator/favicon.png" width=20 height=20 /> Calculator](https://darccyy.github.io/calculator) - Simple calculator in the browser
 - [YouTube Caption Fetcher](https://github.com/darccyy/youtube-caption) - Fetch YouTube Captions in the terminal
 - [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
-
 
 # Friends
 
