@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darccyy&layout=compact&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darccyy&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darccyy&layout=compact&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=darccyy&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darccyy&theme=radical)
 
 </div>
 
