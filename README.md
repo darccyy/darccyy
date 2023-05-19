@@ -20,21 +20,21 @@
 <!-- Languages / Tools -->
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width=50 height=50/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50/>
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width=50 width=50 height=50/>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width=50 height=50/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="Electron" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width=50 height=50/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width=50 height=50/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" width=50 height=50/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width=50 height=50/>
+  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width=50 height=50 style="filter: invert()" />
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width=50 width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="Electron" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width=50 height=50 />
 </div>
 
 # My GitHub Stats
@@ -53,20 +53,8 @@
 - [<img alt="🌐" src="https://trustworthytimes.com/public/image/icon.png" width=20 height=20 /> The Trustworthy Times](https://trustworthytimes.com) - The most Trustworthy news (Satire) [[repo]](https://github.com/trustworthytimes/trustworthytimes.github.io)
 - [<img alt="🌐" src="https://github.com/darccyy/phonet/raw/main/icon.png" width=20 height=20 /> Phonet](https://github.com/darccyy/phonet) - CLI tool to validate phonotactic patterns
 - [<img alt="🌐" src="#" width=20 height=20 /> EveryGarf](https://github.com/darccyy/everygarf) - Download every garfield comic, to date
-- [<img alt="🌐" src="???" width=20 height=20 /> McImg](https://github.com/darccyy/mcimg) - Convert any image into Minecraft blocks
+- [<img alt="🌐" src="#" width=20 height=20 /> McImg](https://github.com/darccyy/mcimg) - Convert any image into Minecraft blocks
 - [<img alt="🌐" src="https://raw.githubusercontent.com/darccyy/mousr/master/src/icon-active.ico" width=20 height=20 /> Mousr](https://github.com/darccyy/mousr) - Control the cursor with the keyboard
-
-### Small projects
-
-These are no longer maintained (and some are cringe)
-
-- [Kahoot Name](https://github.com/darccyy/kahoot-name) - Kahoot renaming API for bypassing generated name
-- [<img alt="🌐" src="https://bruh.news/favicon.png" width=20 height=20 /> BruhNews](https://bruh.news) - BruhNews! The Strongest News [[repo]](https://github.com/bruhnews/bruhnews.github.io)
-- [<img alt="🌐" src="https://github.com/darccyy/targetip/raw/main/icon.png" width=20 height=20 /> TargetIP](https://github.com/darccyy/targetip) - Fake hacking program to fool your friends
-- [<img alt="🌐" src="" width=20 height=20 /> React Express Template](https://github.com/darccyy/react-express-template) - Easy template for creating fullstack webapps
-- [<img alt="🌐" src="https://darccyy.github.io/calculator/favicon.png" width=20 height=20 /> Calculator](https://darccyy.github.io/calculator) - Simple calculator in the browser
-- [YouTube Caption Fetcher](https://github.com/darccyy/youtube-caption) - Fetch YouTube Captions in the terminal
-- [<img alt="🌐" src="https://darccyy.github.io/color/favicon.png" width=20 height=20 /> Color Sliders](https://darccyy.github.io/color/) - Colour Sliders for HSV/RGB/CYM/HEX [[repo]](https://github.com/darccyy/color)
 
 # Friends
 
