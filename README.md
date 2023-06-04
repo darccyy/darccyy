@@ -4,9 +4,7 @@
 
 # About Me:
 
-- darcy burke
 - I am technically a full-stack developer 🤓
-- 17 y/o 💀
 - RUST GANG 🦀
 
 <div align="center">
