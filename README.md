@@ -9,19 +9,28 @@
 - I am technically a full-stack developer 🤓
 - RUST GANG 🦀
 
-<center>
+<div align="center"> <!-- this cannot be <center> -->
 
 ![Smashing Keyboard GIF](https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif?cid=ecf05e47zkeipmvp7qyq05rh1ctacrme7zr1by10fdokdnnt&rid=giphy.gif&ct=s)
 
-</center>
+<div>
 
 ---
 
 <!-- Languages / Tools -->
 
-<center>
-  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width=50 height=50 style="filter: invert()" /> <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="Vim" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="Lua" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50 /> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50 /> 
-</center>
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width=50 height=50 style="filter: invert()" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="Vim" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width=50 height=50 /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="Lua" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50 />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50 /> 
+<div>
 
 # My GitHub Stats
 
@@ -51,8 +60,8 @@
 
 Support 𝑩𝒐𝒍𝒔𝒂!
 
-<center title="Get it? Closing html tag??">
+<div align="center" title="Get it? Closing html tag??">
 
 ![Closing empty HTML tag](https://media3.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e47b8pgakpqq75vo3aelwdi7ik9hfpqckeildfrpczh&rid=giphy.gif&ct=s)
 
-</center>
+<div>
