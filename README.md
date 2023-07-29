@@ -13,7 +13,7 @@
 
 ![Smashing Keyboard GIF](https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif?cid=ecf05e47zkeipmvp7qyq05rh1ctacrme7zr1by10fdokdnnt&rid=giphy.gif&ct=s)
 
-<div>
+</div>
 
 ---
 
@@ -30,7 +30,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="Lua" width=50 height=50 />
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width=50 height=50 />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width=50 height=50 /> 
-<div>
+</div>
 
 # My GitHub Stats
 
@@ -64,4 +64,4 @@ Support 𝑩𝒐𝒍𝒔𝒂!
 
 ![Closing empty HTML tag](https://media3.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e47b8pgakpqq75vo3aelwdi7ik9hfpqckeildfrpczh&rid=giphy.gif&ct=s)
 
-<div>
+</div>
