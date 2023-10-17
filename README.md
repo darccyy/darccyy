@@ -4,10 +4,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/darccyy?style=flat-square) ![GitHub user stars](https://img.shields.io/github/stars/darccyy?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=darccyy&style=flat-square&color=blue)
 
-# About Me:
+# About Me
 
 - I am technically a full-stack developer 🤓
-- RUST GANG 🦀
+- Rust is a good language 🦀
 
 <div align="center"> <!-- this cannot be <center> -->
     <img alt="Smashing Keyboard GIF" src="https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif" />
@@ -33,7 +33,9 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darccyy&layout=compact&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=darccyy&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darccyy&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darccyy&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=darccyy&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darccyy&theme=radical)
 
 </div>
 
@@ -61,7 +63,7 @@
     - Handlebars.js
 
 - Workflow
-    - Git/Github
+    - Git/Github (contributed to at least one project)
     - Vim (Neovim actually)
     - POSIX-shells (bash/zsh)
     - Tmux
