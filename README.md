@@ -69,7 +69,7 @@
     - Tmux
     - Linux (EndevourOS+i3 currently)
 
-I plan to learn Go as well :)
+I also speak Esperanto if that counts as a skill :)
 
 # Projects
 
