@@ -6,7 +6,7 @@
 
 Everything you might want to know can be found at
 
-# ✨**[My Website](https://darccyy.github.io)**✨
+# ✨[My Website](https://darccyy.github.io)✨
 
 </div>
 
@@ -15,14 +15,9 @@ Everything you might want to know can be found at
 </div>
 
 
-# Friends
+## Friends
 
 - [nslebruh](https://github.com/nslebruh)
 - [Addy32](https://github.com/Addy32)
 - [PhishPhingers](https://github.com/phishphingers)
 
-<!-- Support 𝑩𝒐𝒍𝒔𝒂! -->
-
-<div align="center" title="Get it? Closing html tag??">
-    <img alt="Closing empty HTML tag" src="https://media3.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" />
-</div>
