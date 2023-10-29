@@ -2,15 +2,15 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/darccyy?style=flat-square) ![GitHub user stars](https://img.shields.io/github/stars/darccyy?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=darccyy&style=flat-square&color=blue)
 
-<div align="center"> <!-- this cannot be <center> -->
+<div align="center">
 
-Everything you might want to know can be found at
+Everything you might want to know can be found on
 
-# ✨[My Website](https://darccyy.github.io)✨
+# ✨ [My Website](https://darccyy.github.io) ✨
 
 </div>
 
-<div align="center"> <!-- this cannot be <center> -->
+<div align="center">
     <img alt="Smashing Keyboard GIF" src="https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif" />
 </div>
 
