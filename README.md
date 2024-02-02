@@ -1,12 +1,12 @@
 # Hello! 🌊 💻
 
-![GitHub followers](https://img.shields.io/github/followers/darccyy?style=flat-square) ![GitHub user stars](https://img.shields.io/github/stars/darccyy?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=darccyy&style=flat-square&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/dxrcy?style=flat-square) ![GitHub user stars](https://img.shields.io/github/stars/dxrcy?style=flat-square) ![Profile views](https://komarev.com/ghpvc/?username=dxrcy&style=flat-square&color=blue)
 
 <div align="center">
 
 Everything you might want to know can be found on
 
-# ✨ [My Website](https://darccyy.github.io) ✨
+# ✨ [My Website](https://dxrcy.github.io) ✨
 
 </div>
 
