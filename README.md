@@ -14,8 +14,3 @@ Everything you might want to know can be found on my website:
     <img alt="Smashing Keyboard GIF" src="https://media0.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif" />
 </div>
 
-## Friends
-
-- [nslebruh](https://github.com/nslebruh)
-- [Addy32](https://github.com/Addy32)
-- [PhishPhingers](https://github.com/phishphingers)
